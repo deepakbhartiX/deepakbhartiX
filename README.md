@@ -46,4 +46,4 @@ You can find and follow me on:
 ## 📬 More Info
 
 🎓 I am a student currently pursuing MCA (Master of Computer Applications)
- 🌍 Location: New Delhi,India
+ <br/>🌍 Location: New Delhi,India
