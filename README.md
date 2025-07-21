@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm passionate about building modern web applications usin
  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakbhartiX&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=deepakbhartiX&theme=tokyonight&hide_border=true" width="43%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=deepakbhartiX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Development%20Activity"width="43%" />
 
 </p>
 
