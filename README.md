@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm passionate about building modern web applications usin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakbhartiX&theme=github-dark&hide_border=true" width="48%" />
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakbhartiX&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=deepakbhartiX&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Development%20Activity&hide_rank=true" width="35%" />
 
 </p>
 
