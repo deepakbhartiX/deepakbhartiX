@@ -26,7 +26,7 @@ You can find and follow me on:
 - 📷 [Instagram](https://instagram.com/_deepak.bharti_)
 - 🐦 [X (Twitter)](https://x.com/deepak17122002)
 - 💼 [LinkedIn](https://linkedin.com/in/deepakbhartix)
-- 📧 [Send Email via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=deepak17122002@gmail.com)
+- 📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=deepak17122002@gmail.com)
 
 
 
