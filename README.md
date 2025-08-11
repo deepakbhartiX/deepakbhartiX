@@ -2,7 +2,11 @@
 
 ### 🚀 Full Stack Developer | MERN Stack | DevOps | Cloud Enthusiast
 
-Welcome to my GitHub! I'm passionate about building modern web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js) and exploring the world of **DevOps and Cloud** technologies to deploy scalable and efficient applications.
+I’m passionate about building modern web applications using the MERN Stack to create fast, responsive, and user-friendly solutions.
+
+I also have a growing interest in DevOps and Cloud technologies, focusing on CI/CD pipelines, containerization (Docker/Kubernetes), and cloud deployments to deliver scalable and high-performance applications.
+
+
 
 ---
 
