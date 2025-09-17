@@ -15,7 +15,7 @@ I also have a growing interest in DevOps and Cloud technologies, focusing on CI/
 - **Frontend**: React, HTML5, CSS3, JavaScript, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
-- **DevOps & Cloud**: Docker, Kubernetes, GitHub Actions, AWS, NGINX
+- **DevOps & Cloud**: Docker, Kubernetes, GitHub Actions, AWS, NGINX, Azure, GCP
 - **Tools & Platforms**: Git, Postman, VS Code, Linux, Firebase
 
 ---
