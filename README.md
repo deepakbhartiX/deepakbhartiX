@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepak Bharti
 
-### 🚀 Full Stack Developer | MERN Stack | DevOps | Cloud Enthusiast
+### 🚀 Full Stack Developer | DevOps | Development & Cloud Infrastructure (K8s, Azure, GCP, AWS)
 
 I’m passionate about building modern web applications using the MERN Stack to create fast, responsive, and user-friendly solutions.
 
