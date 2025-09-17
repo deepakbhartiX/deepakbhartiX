@@ -2,10 +2,14 @@
 
 ### 🚀 Full Stack Developer | DevOps | Development & Cloud Infrastructure (K8s, Azure, GCP, AWS)
 
-I’m passionate about building modern web applications using the MERN Stack to create fast, responsive, and user-friendly solutions.
+I am a passionate Software Engineer with strong expertise in Full-Stack Web Development and Cloud Infrastructure.
+I enjoy building scalable, high-performance applications that deliver real-world impact.
 
-I also have a growing interest in DevOps and Cloud technologies, focusing on CI/CD pipelines, containerization (Docker/Kubernetes), and cloud deployments to deliver scalable and high-performance applications.
+🔹 Frontend: React.js, Redux
+🔹 Backend: Node.js, Express.js, Redis, SQL, MongoDB Atlas
+🔹 DevOps & Cloud: Docker, Kubernetes, Linux | Azure, AWS, GCP
 
+With a solid foundation in both frontend and backend, I specialize in designing seamless user experiences while ensuring robust server-side logic and cloud-native deployments. I thrive on solving complex problems, optimizing performance, and leveraging modern DevOps practices to deliver efficient, reliable systems.
 
 
 ---
